@@ -1,7 +1,5 @@
 # Servidor FTP
 Servidor FTP creado para las prácticas de una asignatura
-# Hotel Dulce Hotel
-Programa realizado con Bottle que gestiona las habitaciones que hay en un hotel.
 
 ## ¿Cómo se estructura el proyecto?
 _Pues para poder simular que nos conectamos a un servidor web, hemos creado dos directorios donde uno sería el servidor FTP
