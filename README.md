@@ -1,5 +1,5 @@
 # Servidor FTP
-Servidor FTP creado para las prácticas de una asignatura
+Uso de un servidor FTP mediante el uso de sockets.
 
 ## ¿Cómo se estructura el proyecto?
 _Pues para poder simular que nos conectamos a un servidor web, hemos creado dos directorios donde uno sería el servidor FTP
@@ -12,7 +12,7 @@ Una vez citado esto, vamos a citar las librerías que debemos tener en nuestro s
 * socket
 
 ## Instalación
-_Pues las librerías *os y socket* ya se encuentran dentro del sistema.
+_Pues las librerías *os y socket* ya se encuentran dentro del sistema._
 
 ## Realizado por:
 _Para verlo mire la lista de [colaboradores](https://github.com/PaCoders/Hotel-dulce-hotel/graphs/contributors) ._
