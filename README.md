@@ -15,4 +15,5 @@ Una vez citado esto, vamos a citar las librerías que debemos tener en nuestro s
 _Pues las librerías *os y socket* ya se encuentran dentro del sistema._
 
 ## Realizado por:
-_Para verlo mire la lista de [colaboradores](https://github.com/PaCoders/Hotel-dulce-hotel/graphs/contributors) ._
+* [Mí](https://github.com/PaCoders)
+* [Antonio](https://github.com/Renjian-Reyes)
